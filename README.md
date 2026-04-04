@@ -1,4 +1,4 @@
-# Hi, I’m Bagus 👋
+# Hi, I’m Gio 👋
 
 Frontend Engineer with real UI/UX design sense - focused on building **pixel-perfect, high-performance interfaces** with clean, scalable architecture.
 No Vibe Coding. Use AI tools to ship faster but also manually review, refine, and edit the code to achieve pixel perfect UI, custom animation, custom design, design architecture, and decision making.
